@@ -1,13 +1,12 @@
-# TextMate macros for increasing your uber-ness
+# TextMate macro for increasing your uber-ness
 
-## Features
+This macro automatically removes your "diff cruft" with;
+  Convert Tabs To Spaces, And
+  Remove Trailing Whitespace
 
-### Remove Trailing Whitespace
-
-Automatically remove your "diff cruft" with the "Remove Trailing Whitespace Then Save" Textmate Macro
+when you use the Save Cmd (⌘S)
 
 Original idea: Christopher R. Murphy : http://blogobaggins.com/2009/03/31/waging-war-on-whitespace.html
-
 
 ## Installation
 
