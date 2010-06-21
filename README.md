@@ -1,16 +1,17 @@
-# TextMate bundle for Pivotal Tracker
+# TextMate macros for increasing your uber-ness
 
-An intelligent story snippet and a command to push/slurp stories to a Pivotal Tracker account using Hashrocket's slurper (http://github.com/hashrocket/slurper)
 
 ## Installation
 
     cd ~/Library/Application\ Support/TextMate/Bundles/
-    git clone git://github.com/glennr/pivotal-slurper-tmbundle.git Pivotal\ Slurper.tmbundle
-    cd Pivotal\ Slurper.tmbundle
+    git clone git://github.com/glennr/uber-glory-tmbundle.git Uber\ Glory.tmbundle
+    cd Uber\ Glory.tmbundle
     git submodule update --init
     osascript -e 'tell app "TextMate" to reload bundles'
 
-## History
+## TODO
+
+  automate macro setup that TM needs
 
 
 ## License
