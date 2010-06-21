@@ -1,5 +1,13 @@
 # TextMate macros for increasing your uber-ness
 
+## Features
+
+### Remove Trailing Whitespace
+
+Automatically remove your "diff cruft" with the "Remove Trailing Whitespace Then Save" Textmate Macro
+
+Original idea: Christopher R. Murphy : http://blogobaggins.com/2009/03/31/waging-war-on-whitespace.html
+
 
 ## Installation
 
@@ -11,8 +19,7 @@
 
 ## TODO
 
-  automate macro setup that TM needs
-
+   add "All your base are belong to us" reference somewhere.
 
 ## License
 
