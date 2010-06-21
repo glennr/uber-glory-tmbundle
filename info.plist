@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Miscellaneous Glory</string>
+	<key>ordering</key>
+	<array>
+		<string>B066241E-ADE3-48BF-BAD7-2F5A4170A5BB</string>
+		<string>5BBEE531-FECE-4A3F-ABF3-A7FE0C10A6AE</string>
+	</array>
+	<key>uuid</key>
+	<string>679888F7-2987-4FD7-972B-D5EC8C25FA0F</string>
+</dict>
+</plist>
