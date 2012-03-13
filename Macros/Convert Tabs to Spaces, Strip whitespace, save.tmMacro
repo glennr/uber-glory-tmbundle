@@ -52,7 +52,7 @@
 	<key>name</key>
 	<string>Convert Tabs to Spaces, Strip whitespace, save</string>
 	<key>scope</key>
-	<string>- text.html.markdown</string>
+	<string>- text.html.markdown - source.makefile</string>
 	<key>uuid</key>
 	<string>D6844EF1-342B-46D9-A687-CB402F7F4209</string>
 </dict>
