@@ -17,6 +17,13 @@ Original idea: Christopher R. Murphy : http://blogobaggins.com/2009/03/31/waging
     git submodule update --init
     osascript -e 'tell app "TextMate" to reload bundles'
 
+## Known Issues
+
+- Makefiles are excluded from this since they need to be tab-delimited.
+
+- Markdown linebreaks achieved via two trailing spaces are removed; use `<br>`
+  tags instead.
+
 ## TODO
 
    add "All your base are belong to us" reference somewhere.
