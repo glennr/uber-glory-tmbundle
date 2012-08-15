@@ -14,13 +14,13 @@
 				<key>beforeRunningCommand</key>
 				<string>nop</string>
 				<key>command</key>
-				<string>perl -pe 's/[\t ]+$//g'</string>
+				<string>perl -pe 's/[\t ]+$//g' | sed -a '$a\'</string>
 				<key>fallbackInput</key>
 				<string>document</string>
 				<key>input</key>
 				<string>selection</string>
 				<key>name</key>
-				<string>Remove Trailing Spaces in Document / Selection</string>
+				<string>Remove Trailing Spaces in Document / Selection. Add a newline at end of file</string>
 				<key>output</key>
 				<string>replaceSelectedText</string>
 				<key>uuid</key>
