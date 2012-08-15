@@ -4,6 +4,7 @@ This macro automatically removes your "diff cruft" with;
 
     Convert Tabs To Spaces, And
     Remove Trailing Whitespace
+    Add a newline at end of file
 
 when you use the Save Cmd (⌘S)
 
